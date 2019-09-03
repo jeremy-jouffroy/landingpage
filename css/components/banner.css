@@ -17,3 +17,19 @@ body{
     }
 }
 
+.video{
+    width:100%;
+
+    background-image: url("img/1.jpg");
+}
+
+.macaron{
+    width:140px;
+    height:140px;
+    border-radius: 100px 100px;
+}
+
+.btn-primary{
+    border-radius:0px;
+    background-color: #D7C5C5;
+}
